@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-Test Application from Udemy Course!
+Test Application from Udemy Course
